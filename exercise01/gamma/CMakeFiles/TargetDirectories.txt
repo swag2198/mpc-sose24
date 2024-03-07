@@ -1,0 +1,3 @@
+/home/haldarsw/mpc/exercise01/gamma/CMakeFiles/testGamma.dir
+/home/haldarsw/mpc/exercise01/gamma/CMakeFiles/edit_cache.dir
+/home/haldarsw/mpc/exercise01/gamma/CMakeFiles/rebuild_cache.dir

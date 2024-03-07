@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testGamma.dir/testGamma.cu.o CMakeFiles/testGamma.dir/PPM.cpp.o -o testGamma   -L/graphics/opt/opt_Ubuntu22.04/cuda/toolkit_11.8.0/cuda/targets/x86_64-linux/lib/stubs  -L/graphics/opt/opt_Ubuntu22.04/cuda/toolkit_11.8.0/cuda/targets/x86_64-linux/lib  -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
