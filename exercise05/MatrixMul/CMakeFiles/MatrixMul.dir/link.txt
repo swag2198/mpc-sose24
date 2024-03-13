@@ -1,0 +1,1 @@
+/usr/bin/g++ @CMakeFiles/MatrixMul.dir/objects1.rsp -o MatrixMul @CMakeFiles/MatrixMul.dir/linkLibs.rsp -L"/graphics/opt/opt_Ubuntu22.04/cuda/toolkit_11.8.0/cuda/targets/x86_64-linux/lib/stubs" -L"/graphics/opt/opt_Ubuntu22.04/cuda/toolkit_11.8.0/cuda/targets/x86_64-linux/lib"

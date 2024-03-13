@@ -1,0 +1,3 @@
+/home/haldarsw/ex34/exercise04/CellPhoneCoverage/CMakeFiles/CellPhoneCoverage.dir
+/home/haldarsw/ex34/exercise04/CellPhoneCoverage/CMakeFiles/edit_cache.dir
+/home/haldarsw/ex34/exercise04/CellPhoneCoverage/CMakeFiles/rebuild_cache.dir
